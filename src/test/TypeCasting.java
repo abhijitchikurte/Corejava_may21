@@ -5,7 +5,7 @@ public class TypeCasting {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//implicit type casting
+		//Implicit type casting
 		
 		char c='c';
 		
@@ -17,7 +17,7 @@ public class TypeCasting {
 		
         
 		
-	// explicit type casting
+	// Explicit type casting
 		
 		double a=19.5;
 		
